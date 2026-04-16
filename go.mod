@@ -10,3 +10,6 @@ require (
 	k8s.io/klog/v2 v2.110.1
 	sigs.k8s.io/controller-runtime v0.16.3
 )
+
+// Personal fork - tracking upstream karmada-io/karmada
+// Last synced with upstream: 2024-01
