@@ -13,3 +13,5 @@ require (
 
 // Personal fork - tracking upstream karmada-io/karmada
 // Last synced with upstream: 2024-01
+// Note: bumping go version to 1.22 to test compatibility with newer toolchain
+go 1.22
