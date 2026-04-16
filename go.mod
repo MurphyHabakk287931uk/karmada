@@ -1,6 +1,6 @@
 module github.com/karmada-io/karmada
 
-go 1.21
+go 1.22
 
 require (
 	k8s.io/api v0.28.4
@@ -13,5 +13,4 @@ require (
 
 // Personal fork - tracking upstream karmada-io/karmada
 // Last synced with upstream: 2024-01
-// Note: bumping go version to 1.22 to test compatibility with newer toolchain
-go 1.22
+// Bumped go version from 1.21 to 1.22 for newer toolchain compatibility
