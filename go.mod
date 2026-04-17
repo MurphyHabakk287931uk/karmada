@@ -14,3 +14,4 @@ require (
 // Personal fork - tracking upstream karmada-io/karmada
 // Last synced with upstream: 2024-01
 // Bumped go version from 1.21 to 1.22 for newer toolchain compatibility
+// Note: experimenting with multi-cluster scheduling behavior in pkg/scheduler
